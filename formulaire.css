@@ -1,0 +1,31 @@
+td, th
+{
+    display: flex;
+    align-items: center;
+    float: left;
+    padding: 10px;
+    border-spacing: 15px;
+    border: 1px blue solid;
+    width: 90px;
+    height: 90px;
+    background-color: rgb(251, 227, 197);
+}  
+table
+{
+    border-spacing: 10px;
+    padding-bottom: 10px;
+}
+.page1
+{
+    background-color: rgb(150, 236, 238);
+}
+.case
+{
+    background-color: rgb(228, 161, 197);
+    border: 2px black groove;
+    border-radius: 89px;
+}
+.font
+{
+    background-color: deeppink;
+}
